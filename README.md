@@ -2,8 +2,7 @@
 A GenAI-powered workflow generation system that converts natural-language business requirements into structured, validated, and executable workflows.
 The system does not simply generate a text response. It converts a business requirement into a typed workflow containing actions, validations, conditions, API/tool operations, data transformations, human approval steps, and error-handling paths.
 ## 🔗 Project Links
-- **GitHub Repository:** [Add GitHub Repository URL]
-- **Live Demo:** [Add Render Deployment URL]
+- **Live Demo🚀:** [https://natural-language-workflow-generator.onrender.com]
 ---
 ## 📌 Problem Statement
 Business requirements are often written in natural language and may contain multiple operations, validations, decisions, API calls, and approval steps.
