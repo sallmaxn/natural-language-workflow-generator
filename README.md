@@ -2,7 +2,7 @@
 A GenAI-powered workflow generation system that converts natural-language business requirements into structured, validated, and executable workflows.
 The system does not simply generate a text response. It converts a business requirement into a typed workflow containing actions, validations, conditions, API/tool operations, data transformations, human approval steps, and error-handling paths.
 ## 🔗 Project Links
-- **Live Demo🚀:** [https://natural-language-workflow-generator.onrender.com]
+- **Live Demo 🚀:** https://natural-language-workflow-generator.onrender.com
 ---
 ## 📌 Problem Statement
 Business requirements are often written in natural language and may contain multiple operations, validations, decisions, API calls, and approval steps.
@@ -245,9 +245,9 @@ This makes the project reproducible and allows the workflow engine to be tested 
                           ▼
                   Execution Results
 
-⸻
+---
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 * Python 3.10+
 * FastAPI
@@ -274,7 +274,6 @@ natural-language-workflow-generator/
 │   ├── test_workflow.py
 │   └── test_llm.py
 │
-├── .env
 ├── .gitignore
 ├── README.md
 └── requirements.txt
@@ -448,8 +447,9 @@ WORKFLOW_GENERATION_MODE=local
 
 1. Clone the repository
 
-git clone [GitHub Repository URL]
+git clone [https://github.com/sallmaxn/natural-language-workflow-generator.git]
 cd natural-language-workflow-generator
+
 
 2. Create a virtual environment
 
